@@ -1,0 +1,5 @@
+﻿  Queue.c
+F:\初阶数据结构\Queue\Queue.c(69,35): warning C4028: 形参 1 与声明不同
+  test.c
+  正在生成代码...
+  Queue.vcxproj -> F:\初阶数据结构\Queue\Debug\Queue.exe
